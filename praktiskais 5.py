@@ -80,7 +80,7 @@ while bruninieks.ir_dzivs() and burvis.ir_dzivs():
 
     print("\nRound end status:\n")
     bruninieks.paradit_statusu()
-    burvis.paradit_statusu()  # ← te bija kļūda, tagad funkcija tiek izsaukta pareizi
+    burvis.paradit_statusu()  
 
     round += 1
 
